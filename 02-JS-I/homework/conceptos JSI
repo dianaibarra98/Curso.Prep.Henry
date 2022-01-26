@@ -1,0 +1,22 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+   - Variables
+
+una variable es un tipo de contenedor o recipiente donde podemos guardar infomacion con su popio nombre y tiene un valor determinado que podremos utilizar mas adelante.
+
+    * Strings
+
+estas son frases o cadenas de textos, y siempre deben utilizarse con comillas bien sea dobles o sencillas.
+
+    * Funciones (argumentos, `return`)
+
+las funciones son un conjunto de declaraciones que cumplen una funcion, es decir realizan una tarea especifica.
+los argumentos son los valores que le damos a las funciones
+y el return es una palabra que se utiliza para detener la accion de una funcion y nos devuelve o retorna un valor. \* Declaraciones `if`
+if es una condicional que se usa para tomar decisiones, basicamente evalua operaciones y las define entre si son verdaderas o falsas
+
+    * Valores booleanos (`true`, `false`)
+
+las variables booleanas solo pueden tomar dos valores, que son ser verdaderos o falsas
+true = verdadero
+false = falso
